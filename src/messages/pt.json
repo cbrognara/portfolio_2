@@ -1,0 +1,91 @@
+{
+  "Index": {
+    "localesDropdownAltImage": "Ícone para expandir e ver linguagens disponíveis para tradução",
+    "countryFlag": "Bandeira do Brasil representando a lingua portuguesa",
+    "githubIconAlt": "Link para GitHub de Camila",
+    "linkedinIconAlt": "Link para o Linkedin de Camila",
+    "instagramIconAlt": "Link para o Instagram de Camila",
+    "whatsappIconAlt": "Link para o WhatsApp de Camila",
+    "profilePhotoAlt": "Foto de perfil de Camila",
+    "projects": {
+      "filmapp": {
+        "coverAlt": "Capa do filmapp com telas do app",
+        "title": "Filmapp",
+        "detailedDescription": "Site de hospedagem de filmes com barra de pesquisa pelo título e lista de favoritados",
+        "whatIDidInThisProjectDescription": "A lista de filmes foi conectada com API externa, de forma a exibir título e poster disponíveis. Na barra de busca possibilitei que a pesquisa fosse simples considerando trechos do título, maísculas e minúsculas. Ainda existe a possibilidade do usuário favoritar e remover filmes de sua lista pessoal."
+      },
+      "lemondesignsystem": {
+        "coverAlt": "Design system",
+        "title": "Lemon Energy Design System",
+        "detailedDescription": "Case cujo desafio era a elaboração de design system de botões.",
+        "whatIDidInThisProjectDescription": "Com base em um modelo elaborado no figma, trabalhei na construção do design system de um botão default como componente padrão de forma a ser o mais reutilizavel em sua mínima forma, aceitando cores, posicionamento de ícones e animações diferentes de acordo com os parâmetros enviados."
+      },
+      "comparedupe": {
+        "coverAlt": "Capa do Compare-Dupe com telas do site",
+        "title": "Compare Dupe",
+        "detailedDescription": "Site para comparação de dupes de maquiagem, de forma a encontrar produtos que se assemelham em cor, textura ou função.",
+        "whatIDidInThisProjectDescription": "O mercado nacional de beleza e cuidados pessoais sempre foi expressivo em todas as épocas, nesse momento ele enfrenta mudanças com a chegada do digital. As pessoas estão cada vez mais migrando para a compra online de maquiagem e produtos de cuidados pessoais. Mas a barreira de não poder experientar e/ou ver o produto em sua forma real pode tornar o processo um pouco complicado. Numa tentativa de melhorar essa experiência, encontrei um site americano com a funcionalidade de ajudar pessoas a encontrar produtos semelhantes aos seus favoritos, podendo comparar, através de imagens e comentários de usuários, cores, texturas e efeitos. Mas não encontrei algo semelhante em nosso idioma e/ou listando produtos nacionais. Decidi experientar a ideia de fazer uma versão brasileira."
+      },
+      "capputeeno": {
+        "coverAlt": "Capa do Capputeeno",
+        "title": "Capputeeno",
+        "detailedDescription": "Rocketseat desafio front end",
+        "whatIDidInThisProjectDescription": "Criar um e-commerce para venda de canecas e camisetas baseando-se em um protótipo no figma, uso de local storage e consumo de api GraphQL. Também utilizei styled components, criei uma barra de busca pelo nome do produto e trabalhei na construção de diferentes tipos filtros de busca."
+      },
+      "spotify": {
+        "coverAlt": "Capa do Spotify Clone",
+        "title": "Spotify",
+        "detailedDescription": "Spotify clone da interface com tailwind",
+        "whatIDidInThisProjectDescription": "De forma a experimentar o uso puro de tailwind eu clonei a interface do Spotify. O próximo passo para melhorar o projeto seria converter em componentes, de forma a deixar o código mais limpo e sem repetições."
+      }
+    },
+    "arrowRightAlt": "Seta para direita",
+    "seeDetails": "Ver detalhes",
+    "seeMoreOnLinkedin": "Veja mais recomendações",
+    "name": "Olá, eu sou Camila",
+    "role": "Front End",
+    "developer": "Desenvolvedora",
+    "portfolio": "Portfólio",
+    "portfolioArrowDownAlt": "Ícone de flecha apontando para baixo",
+    "exploreProjects": "Explore os projetos em que trabalhei",
+    "personalProjects": "Pessoais",
+    "intodesignProjects": "Into Design",
+    "genesisbankProjects": "Genesis Bank",
+    "recommendations": "Recomendações",
+    "alexandreProfilePhotoAlt": "Foto de perfil de Alexandre",
+    "alexandreHelpaRole": "Founder e CEO na IntoDesign",
+    "alexandreHelpaRecommendation": "<p>É com grande satisfação que recomendo a Camila. Durante o tempo em que trabalhamos juntos, ela sempre demonstra um comprometimento exemplar com a qualidade e eficiência do trabalho. Sua evolução foi impressionante em um curto período de tempo, sempre entregando soluções inovadoras e bem estruturadas. Além disso, sua atitude proativa e capacidade de trabalhar bem em equipe contribuíram significativamente para o sucesso dos projetos. Sem dúvida, a Camila é uma profissional talentosa e confiável, e não hesito em recomendá-la para qualquer desafio na área de desenvolvimento de software.</p>",
+    "locales": {
+      "pt": "português",
+      "en": "inglês"
+    },
+    "mainStack": "Stack Principal",
+    "reactIconAlt": "Ícone do React",
+    "nextIconAlt": "Ícone do Next.js",
+    "nodeIconAlt": "Ícone do Node.js",
+    "typescriptIconAlt": "Ícone do Typescript",
+    "javascriptIconAlt": "Ícone do Javascript",
+    "doYouNeedADeveloper": "precisa de um dev?",
+    "letsWorkTogether": "Vamos trabalhar juntos",
+    "actualOccupationTitle": "última ocupação",
+    "actualOccupation": "Desenvolvedor Front End na Genesis Bank",
+    "contact": "Contato",
+    "goBackIconAlt": "Ícone de voltar",
+    "goBack": "voltar",
+    "artifacts": "Artefatos",
+    "apiSourceCode": "Código fonte da API",
+    "appSourceCode": "Código fonte do APP",
+    "siteSourceCode": "Código fonte do site",
+    "design": "Arquivos de design",
+    "demo": "Demonstração",
+    "whatIDidInThisProject": "Qual foi o meu papel nesse projeto?",
+    "whatsappMessage": "Olá Camila, encontrei seu número em seu site de portfólio, podemos conversar?",
+    "readMore": "ler mais",
+    "readLess": "ler menos",
+    "noProjectsYet": "Vou adicionar meus trabalhos dessa empresa em breve",
+    "downloadCVIconAlt": "Ícone de download",
+    "downloadCV": "Baixar Currículo",
+    "availableIconAlt":"Available icon",
+    "openToWork": "disponível para entrevistas"
+  }
+}
