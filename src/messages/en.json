@@ -4,13 +4,21 @@
     "header": {
       "work": "Work",
       "play": "Play",
-      "about": "About"
+      "about": "About",
+      "resume": "Resume"
     },
     "footer": {
       "niceToSee": "Nice to see you here!",
       "bestViewed": "This website is best viewed on desktop",
       "madeWithLove": "Made with love © 2024 Camila Brognara"
     },
+    "helloI": "Hi, I'm Camila, a",
+    "softwareDeveloper": "software developer",
+    "helloII": "with a passion for front end",
+    "softwareDeveloperat": "Software Developer at",
+    "previouslyWorked": "Previously worked with",
+    "and": "and",
+    "graduated": "Graduated from",
     "localesDropdownAltImage": "Dropdown icon to show click and show available translations",
     "countryFlag": "USA flag representing english language",
     "githubIconAlt": "Link to Camila's GitHub",

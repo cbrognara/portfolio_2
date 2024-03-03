@@ -15,17 +15,17 @@ const DownloadCVButton: React.FC = () => {
       target="_blank"
       href={`/documents/curriculo-camilabrognara-frontend${locale === 'en' ? '-english' : ''}.pdf`}
       download="curriculo-camilabrognara-frontend"
-      className='flex items-center justify-center py-[6px] px-[16px] bg-[#FFA5A3] rounded-2xl'
+      className='flex items-center justify-center'
     >
+      <span className='nowrap ml-[4px] pr-1'>
+        {t('header.resume')}
+      </span>
       <Image
         src={`/icons/download.svg`}
         height={14.82}
         width={18}
         alt={t('downloadCVIconAlt')}
       />
-      <span className='text-black nowrap ml-[4px]'>
-        {t('downloadCV')}
-      </span>
     </Link>
   );
 }
