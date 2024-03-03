@@ -1,3 +1,4 @@
+'use client'
 
 import React from 'react';
 import Link from 'next/link'
@@ -14,7 +15,7 @@ const DownloadCVButton: React.FC = () => {
       target="_blank"
       href={`/documents/curriculo-camilabrognara-frontend${locale === 'en' ? '-english' : ''}.pdf`}
       download="curriculo-camilabrognara-frontend"
-      className='flex items-center justify-center py-[6px] px-[16px] bg-[#EC4392] rounded-2xl'
+      className='flex items-center justify-center py-[6px] px-[16px] bg-[#FFA5A3] rounded-2xl'
     >
       <Image
         src={`/icons/download.svg`}
@@ -22,7 +23,7 @@ const DownloadCVButton: React.FC = () => {
         width={18}
         alt={t('downloadCVIconAlt')}
       />
-      <span className='nowrap ml-[4px]'>
+      <span className='text-black nowrap ml-[4px]'>
         {t('downloadCV')}
       </span>
     </Link>

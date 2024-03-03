@@ -1,12 +1,23 @@
 {
   "Index": {
     "title": "Titulo",
+    "header": {
+      "work": "Projetos",
+      "play": "Play",
+      "about": "Sobre"
+    },
+    "footer": {
+      "niceToSee": "Que bom ver você aqui!",
+      "bestViewed": "Este site é melhor visualizado no desktop",
+      "madeWithLove": "Made with love © 2024 Camila Brognara"
+    },
     "localesDropdownAltImage": "Ícone para expandir e ver linguagens disponíveis para tradução",
     "countryFlag": "Bandeira do Brasil representando a lingua portuguesa",
     "githubIconAlt": "Link para GitHub de Camila",
     "linkedinIconAlt": "Link para o Linkedin de Camila",
     "instagramIconAlt": "Link para o Instagram de Camila",
     "whatsappIconAlt": "Link para o WhatsApp de Camila",
+    "dribbleIconAlt": "Link para o Dribble de Camila",
     "profilePhotoAlt": "Foto de perfil de Camila",
     "projects": {
       "filmapp": {

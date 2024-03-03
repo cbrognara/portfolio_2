@@ -50,11 +50,11 @@ export default async function LocaleLayout({
   return (
     <html lang={locale}>
       <body className={poppins.className}>
-      {/* <NextIntlClientProvider locale={locale} messages={messages}> */}
+      <NextIntlClientProvider locale={locale} messages={messages}>
         <Header />
         {children}
         <Footer/>
-        {/* </NextIntlClientProvider> */}
+        </NextIntlClientProvider>
         </body>
     </html>
   );
